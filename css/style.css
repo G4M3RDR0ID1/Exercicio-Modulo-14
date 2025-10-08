@@ -1,0 +1,17 @@
+/* Personalizações */
+body {
+  scroll-behavior: smooth;
+}
+
+#home h1, #home p {
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+}
+
+.card img {
+  height: 250px;
+  object-fit: cover;
+}
+
+footer {
+  font-size: 0.9rem;
+}
